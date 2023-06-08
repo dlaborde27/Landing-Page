@@ -115,6 +115,12 @@ body {
   font-weight: bold;
 }
 
+#conteiner-primary {
+  display: flex;
+  height: 100%;
+  align-items: center;
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
@@ -10852,7 +10858,7 @@ html {
 .navbar-custom {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: #0F3D35;
 }
 .navbar-custom .navbar-brand {
   text-transform: uppercase;
