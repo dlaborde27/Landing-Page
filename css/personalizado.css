@@ -1,0 +1,27 @@
+.productosPersonal {
+   width: 200px;
+   height: 500px;
+   object-fit: cover;
+}
+
+.productosSeguridad {
+    width: 500px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.productosAlojamiento{
+    width: 370px;
+    height: 320px;
+    object-fit: cover;
+}
+
+img#linterna {
+    width: 389px;
+    height: 300px;
+}
+
+img#botiquin {
+    width: 300px;
+    height: 300px;
+}
