@@ -25,3 +25,15 @@ img#botiquin {
     width: 300px;
     height: 300px;
 }
+
+.productosPersonal {
+    width: 200px;
+    height: 500px;
+    object-fit: cover;
+ }
+
+ .comida {
+    width: 500px;
+    height: 300px;
+    object-fit: cover;
+ }
